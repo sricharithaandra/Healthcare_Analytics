@@ -9,9 +9,9 @@ Synthetic healthcare dataset is sourced from Kaggle as it mimics real-world pati
 Key Variables: Age, Gender, Blood Type, Medical Condition, Insurance Provider, Billing Amount, Admission Type, Medication, Test Results, Length of Stay
 
 Research Questions:
-Q1. Can we predict a patient's test result based on demographic and medical information?
-Q2. Can a patient's length of stay be estimated based on available variables?
-Q3. How can patients be grouped into distinct segments, and how do these segments differ?
+- Q1. Can we predict a patient's test result based on demographic and medical information?
+- Q2. Can a patient's length of stay be estimated based on available variables?
+- Q3. How can patients be grouped into distinct segments, and how do these segments differ?
 
 Tools & Technologies:
 - Python (pandas, scikit-learn, matplotlib): Data preprocessing, predictive modeling, clustering
