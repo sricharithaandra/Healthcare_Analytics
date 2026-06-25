@@ -33,5 +33,7 @@ Limitations:
 - HIPAA constraints make real patient data difficult to obtain. 
 
 Author:
-Sricharitha Andra · linkedin.com/in/sricharithaandra
+
+Sricharitha Andra 
+
 M.S. Marketing Analytics & Insights - Wright State University, 2025
